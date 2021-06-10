@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/cookies_shop/static/js/main.684367a9.chunk.js",
+    "main.js.map": "/cookies_shop/static/js/main.684367a9.chunk.js.map",
+    "runtime-main.js": "/cookies_shop/static/js/runtime-main.b1a59294.js",
+    "runtime-main.js.map": "/cookies_shop/static/js/runtime-main.b1a59294.js.map",
+    "static/js/2.ab3e2828.chunk.js": "/cookies_shop/static/js/2.ab3e2828.chunk.js",
+    "static/js/2.ab3e2828.chunk.js.map": "/cookies_shop/static/js/2.ab3e2828.chunk.js.map",
+    "static/js/3.91963913.chunk.js": "/cookies_shop/static/js/3.91963913.chunk.js",
+    "static/js/3.91963913.chunk.js.map": "/cookies_shop/static/js/3.91963913.chunk.js.map",
+    "index.html": "/cookies_shop/index.html",
+    "static/js/2.ab3e2828.chunk.js.LICENSE.txt": "/cookies_shop/static/js/2.ab3e2828.chunk.js.LICENSE.txt",
+    "static/media/cookiesbg.84bbd21d.jpg": "/cookies_shop/static/media/cookiesbg.84bbd21d.jpg",
+    "static/media/product1.b8043124.jpg": "/cookies_shop/static/media/product1.b8043124.jpg",
+    "static/media/product2.03a496bd.jpg": "/cookies_shop/static/media/product2.03a496bd.jpg",
+    "static/media/product3.917543c5.jpg": "/cookies_shop/static/media/product3.917543c5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1a59294.js",
+    "static/js/2.ab3e2828.chunk.js",
+    "static/js/main.684367a9.chunk.js"
+  ]
+}
